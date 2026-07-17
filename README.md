@@ -45,7 +45,7 @@ This repository includes projects such as:
 - Learn web accessibility best practices
 - Track my progress throughout my web development journey
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML5
 
