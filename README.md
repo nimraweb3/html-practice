@@ -8,7 +8,7 @@ This repository contains my HTML practice projects as I learn the fundamentals o
 
 I'm building small projects and completing coding exercises to strengthen my understanding of HTML. Rather than just reading documentation, I prefer learning by creating real webpages and experimenting with different HTML elements and semantic structures.
 
-## 📚 What I'm Learning
+##  What I'm Learning
 
 - HTML5 fundamentals
 - Semantic HTML
@@ -21,7 +21,7 @@ I'm building small projects and completing coding exercises to strengthen my und
 - Lists and page structure
 - Responsive HTML basics
 
-## 🚀 Practice Projects
+##  Practice Projects
 
 This repository includes projects such as:
 
@@ -37,7 +37,7 @@ This repository includes projects such as:
 - Accessible Audio Controls
 
 
-## 🎯 Goals
+##  Goals
 
 - Build a strong foundation in HTML
 - Practice by creating real-world mini projects
